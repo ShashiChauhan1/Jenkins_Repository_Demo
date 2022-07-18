@@ -30,4 +30,9 @@ public class TestingGit_Repo {
         System.out.println("testing 5.");
     }
 
+    @Test
+    public void test6()
+    {
+        System.out.println("testing to check Jenkins");
+    }
 }
