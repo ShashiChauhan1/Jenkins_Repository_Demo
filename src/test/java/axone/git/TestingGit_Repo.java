@@ -14,5 +14,10 @@ public class TestingGit_Repo {
     {
         System.out.println("testing 2.");
     }
+    @Test
+    public void test3()
+    {
+        System.out.println("testing 3.");
+    }
 
 }
