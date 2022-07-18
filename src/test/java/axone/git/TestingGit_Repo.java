@@ -9,5 +9,10 @@ public class TestingGit_Repo {
     {
         System.out.println("testing 1.");
     }
+    @Test
+    public void test2()
+    {
+        System.out.println("testing 2.");
+    }
 
 }
