@@ -16,4 +16,10 @@ public class TestingForJenkins {
     {
         System.out.println("testing to check Jenkins");
     }
+
+    @Test
+    public void test3()
+    {
+        System.out.println("testing again at 13.22");
+    }
 }
