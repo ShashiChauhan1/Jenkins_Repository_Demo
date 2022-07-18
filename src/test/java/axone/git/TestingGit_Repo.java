@@ -7,7 +7,7 @@ public class TestingGit_Repo {
     @Test
     public void test1()
     {
-        System.out.println("testing 1");
+        System.out.println("testing 1.");
     }
 
 }
