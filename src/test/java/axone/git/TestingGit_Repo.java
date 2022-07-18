@@ -22,7 +22,7 @@ public class TestingGit_Repo {
     @Test
     public void test4()
     {
-        System.out.println("testing 4.");
+        System.out.println("testing 4..");
     }
     @Test
     public void test5()
