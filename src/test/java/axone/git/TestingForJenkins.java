@@ -9,4 +9,11 @@ public class TestingForJenkins {
     {
         System.out.println("Testing for jenkins");
     }
+
+
+    @Test
+    public void test2()
+    {
+        System.out.println("testing to check Jenkins");
+    }
 }
